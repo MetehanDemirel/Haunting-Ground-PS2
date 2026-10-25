@@ -23,6 +23,8 @@ A `.pnach` patch for **Haunting Ground** (*Demento*) on PCSX2 that unlocks 60 FP
 
 To compare against the original game, untick **60-fps-test** and restart.
 
+### Important Note
+
 **Use in-game saves (memory card).** PCSX2 savestates contain the patch's code. A savestate made with one version of the
 patch can crash when loaded with another.
 
