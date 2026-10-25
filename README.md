@@ -13,6 +13,6 @@ A `.pnach` patch for **Haunting Ground** (*Demento*) on PCSX2 that unlocks 60 FP
 
 > *Currently only supports the NTSC-U release.*
 
-<img src="./assets/fiona.jpg" alt="Fiona Belli Sketch by Koyorin" width="380" />
 
+<img src="./assets/fiona.jpg" alt="Fiona Belli Sketch by Koyorin" width="380" />
 *Fiona Belli Sketch by [Koyorin](https://x.com/koyoriin)*
