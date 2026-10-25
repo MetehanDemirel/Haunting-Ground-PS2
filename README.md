@@ -1,5 +1,3 @@
-<img src="./assets/fiona.jpg" alt="Fiona Belli Sketch by Koyorin" width="380" />
-
 # Haunting Ground - 60 FPS Patch (.pnach)
 
 A `.pnach` patch for **Haunting Ground** (*Demento*) on PCSX2 that unlocks 60 FPS gameplay without huge bugs, in beta.
@@ -17,3 +15,5 @@ A `.pnach` patch for **Haunting Ground** (*Demento*) on PCSX2 that unlocks 60 FP
 
 gametitle=Haunting Ground (USA) (SLUS-21075) [901AAC09]
 comment=Force 60 FPS Patch
+
+<img src="./assets/fiona.jpg" alt="Fiona Belli Sketch by Koyorin" width="380" />
