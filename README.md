@@ -20,7 +20,7 @@ It dynamically changes to 30 FPS during cutscenes and menus for better compatibi
 
 1. Download the [latest release](https://github.com/MetehanDemirel/Haunting-Ground-PS2/releases/latest) and extract it.
 2. In PCSX2, open **Tools → Open Data Directory** and place `SLUS-21075_901AAC09.pnach` in the `cheats` folder.
-3. Right-click *Haunting Ground* in the game list → **Properties → Cheats**, turn on **Enable Cheats** and tick **60-fps-test**.
+3. Right-click *Haunting Ground* in the game list → **Properties → Cheats**, turn on **Enable Cheats** and tick `60-fps-test`.
 4. Start the game. PCSX2 shows *"1 cheat patch is active"*.
 
 To compare against the original game, untick `60-fps-test` and restart.
