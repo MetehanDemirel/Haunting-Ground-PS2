@@ -1,6 +1,7 @@
 # Haunting Ground - 60 FPS Patch (.pnach) | IN BETA
 
 A `.pnach` patch for **Haunting Ground** (*Demento*) on PCSX2 that unlocks 60 FPS gameplay.
+It dynamically changes to 30 FPS during cutscenes and menus for better compatibility.
 
 ---
 
